@@ -23,11 +23,11 @@ Suivez ces étapes pour installer et exécuter le projet localement:
 
 1. **Clonez le dépôt**:
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
+    git clone https://github.com/omarnadif/SpotifyDetector.git
     ```
 2. **Naviguez dans le répertoire du projet**:
     ```bash
-    cd votre-repo
+    cd SpotifyDetector
     ```
 3. **Installez les dépendances**:
     ```bash
